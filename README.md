@@ -25,7 +25,7 @@ Live Demos:
 
 Academic Projects & Collaborations
 [PRJ381 Agent-Based Modelling](#): A C#/.NET 8 framework with Monte Carlo batch experimentation, built for distributed execution across a Raspberry Pi cluster via gRPC.
-[TrackB Inventory Issuance App](#): Collaborative application development project.
+[TrackB Inventory Issuance App](https://github.com/Druxler/TrackB-Inventory-Issuance-App):Collaborative university cleaning inventory & issuance system developed with a team partner.
 
 📄[Click here to view & download my CV](https://th4to20.github.io/Thato-Goqo-portfolio-website/assets/Thato_Goqo_CV.pdf)
 
